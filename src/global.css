@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.login_button {
+  background-image: linear-gradient(
+    to right,
+    #1eb5ca,
+    #008fbb,
+    #0069a7,
+    #00428a,
+    #131964
+  );
+}
