@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const KEY = "AIzaSyC8A97EW1Y-5mSrvNDdTo2tpU2zhziNzAE";
+const KEY = "API-KEY";
 export let baseParams = {
   key: KEY,
   maxResults: 10,
